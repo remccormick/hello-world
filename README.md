@@ -1,2 +1,4 @@
 # hello-world
-Initial experiment - booyah
+Rob McCormick - work in RTP, NC
+
+Interested in DevOps, Python, Powershell and security.
